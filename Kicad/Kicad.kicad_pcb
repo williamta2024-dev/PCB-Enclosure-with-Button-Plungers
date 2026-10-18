@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../../../../../Downloads/")
 		)
 	)
 	(footprint "LED_THT:LED_D5.0mm"
